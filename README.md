@@ -8,7 +8,7 @@
 #### 2학년
 > 머신러닝<br>
 -    멤버 : [윤동현](https://github.com/YDHYDHDONG), [최형곤](https://github.com/Gon1e)
--    일정 :
+-    일정 : 헨즈온 머신러닝 
 
 > 딥러닝<br>
 -    멤버 : [김병찬](https://github.com/soft0725)
