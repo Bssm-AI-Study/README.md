@@ -1,7 +1,7 @@
 ## BMLS 스터디
 #### 1학년
 > 파이썬<br>
--    멤버 : [박성현](https://github.com/shyexnnn), [김동현](https://github.com/ha2hizzx)  
+-    멤버 : [박성현](https://github.com/shyexnnn), [김동현](https://github.com/ha2hizzx), [이지우](https://github.com/E-jiwoo)  
 -    일정 : 5 ~ 6월 파이썬 기초 공부  
 -    [점프 투 파이썬 - WikiDocs](https://wikidocs.net/book/1) 으로 공부할 예정    
 
